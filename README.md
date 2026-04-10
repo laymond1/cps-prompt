@@ -4,7 +4,7 @@ PyTorch code for the CVPR 2026 paper:\
 **Critical Patch-Aware Sparse Prompting with Decoupled Training for Continual Learning on the Edge**\
 Wonseon Lim, Jaesung Lee, Dae-Won Kim\
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026\
-[[arXiv]] (to appear)
+[[Paper](https://arxiv.org/abs/2604.07399)]
 
 <p align="center">
 <img src="cps-prompt.png" alt="CPS-Prompt method overview" width="90%">
@@ -134,7 +134,6 @@ If you find our work useful for your research, please cite:
   author    = {Lim, Wonseon and Lee, Jaesung and Kim, Dae-Won},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2026},
-  note      = {To appear}
 }
 ```
 
